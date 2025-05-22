@@ -1,4 +1,4 @@
-% swipl 3_variables.pl
+% swipl variables.pl
 
 
 % Facts

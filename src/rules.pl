@@ -1,5 +1,5 @@
 
-% swipl 2_rules.pl
+% swipl rules.pl
 playsPiano(sara).
 playsPiano(anna).
 happy(anna).
